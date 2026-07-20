@@ -386,11 +386,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/hoodie_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kaputzenpulli UC502 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/hoodie_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kaputzenpulli UC502 hinten.jpg" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -418,11 +418,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/tshirt_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/T-Shirt UC301 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/tshirt_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/T-Shirt UC301 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -450,11 +450,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/jacket_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kaputzenjacke UC504 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/jacket_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kaputzenjacke UC504 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -482,11 +482,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/sweatshirt_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Sweatshirt UC203 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/sweatshirt_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Sweatshirt UC203 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -514,11 +514,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/longshirt_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Longshirt UC314 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/longshirt_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Longshirt UC314 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -546,11 +546,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/polo_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Poloshirt UC112 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/polo_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Poloshirt UC112 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -578,11 +578,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/kinder_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kinder T-Shirt UC306 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/kinder_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kinder T-Shirt UC306 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -615,11 +615,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/kindersweat_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kinder Sweatshirt UC202 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/kindersweat_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kinder Sweatshirt UC202 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -652,11 +652,11 @@
             <div>
                 <div class="product-images">
                     <div class="img-container">
-                        <img src="images/kinderhoodie_vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kinder Kaputzenpulli UC503 vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Vorderseite</div>
                     </div>
                     <div class="img-container">
-                        <img src="images/kinderhoodie_hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Kinder Kaputzenpulli UC503 hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
                         <div class="img-label">Rückseite</div>
                     </div>
                 </div>
@@ -721,23 +721,20 @@
             </div>
         </div>
 
+
+
         <!-- Produkt 11 -->
         <div class="product-card" id="p11">
             <div>
                 <div class="product-images">
-                   <div class="img-container">
-                <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Softstyle Woman´s Tank Top vorn.jpg"
-                     alt="Vorderseite"
-                     onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style=&quot;color:#666;font-size:0.8rem;text-align:center;&quot;>Bild fehlt</span>')">
-                <div class="img-label">Vorderseite</div>
-            </div>
-
-            <div class="img-container">
-                <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Softstyle Woman´s Tank Top hinten.jpg"
-                     alt="Rückseite"
-                     onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style=&quot;color:#666;font-size:0.8rem;text-align:center;&quot;>Bild fehlt</span>')">
-                <div class="img-label">Rückseite</div>
-            </div>
+                    <div class="img-container">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Softstyle Woman´s Tank Top vorn.jpg" alt="Vorderseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <div class="img-label">Vorderseite</div>
+                    </div>
+                    <div class="img-container">
+                        <img src="https://raw.githubusercontent.com/MinotaurusRoms/kcphoenix/main/Softstyle Woman´s Tank Top hinten.jpg" alt="Rückseite" onerror="this.style.display='none'; this.parentNode.insertAdjacentHTML('beforeend', '<span style='color:#666;font-size:0.8rem;text-align:center;'>Bild fehlt</span>')">
+                        <div class="img-label">Rückseite</div>
+                    </div>
                 </div>
                 <h3 class="product-title">Softstyle Women's Tank Top (Erwachsene)</h3>
                 <div class="product-price-tag" id="price-p11">0,00 EUR</div>
@@ -748,15 +745,16 @@
                     <label>Größe:</label>
                     <select class="prod-size" onchange="validateCard('p11')">
                         <option value="" selected disabled>--- Bitte Größe auswählen ---</option>
-                        <option value="S">S</option><option value="M">M</option><option value="L">L</option><option value="XL">XL</option><option value="XXL">XXL</option>
+                        <option value="XS">XS</option><option value="S">S</option><option value="M">M</option><option value="L">L</option><option value="XL">XL</option><option value="XXL">XXL</option><option value="3XL">3XL</option><option value="4XL">4XL</option>
                     </select>
                 </div>
                 <div class="form-group"><label>Druck VORNE:</label><input type="text" class="prod-custom-front" value="Tanzgarde"></div>
                 <div class="form-group"><label>Druck HINTEN:</label><input type="text" class="prod-custom-back" value="Tanzgarde"></div>
                 <div class="form-group"><label>Anzahl:</label><input type="number" class="prod-qty" placeholder="Stückzahl" min="1" oninput="validateCard('p11')"></div>
-                <button class="btn-add" id="btn-p11" onclick="addItem('Softstyle Women's Tank Top (Erwachsene)', 'p11')" disabled>Hinzufügen zum Warenkorb</button>
+                <button class="btn-add" id="btn-p11" onclick="addItem('Kapuzenpulli UC 502 (Erwachsene)', 'p11')" disabled>Hinzufügen zum Warenkorb</button>
             </div>
         </div>
+
 
         <!-- Produkt 12 -->
         <div class="product-card" id="p12">
